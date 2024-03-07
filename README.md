@@ -7,8 +7,8 @@
 💬 Disposto a aprender e me empenhar em qualquer oportunidade que for oferecida.
 
 ---
+![daavzin's Stats](https://github-readme-stats.vercel.app/api?username=daavzin&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)![daavzin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daavzin&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
-![daavzin's Stats](https://github-readme-stats.vercel.app/api?username=daavzin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![daavzin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daavzin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 Minhas Skills
 
